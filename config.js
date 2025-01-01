@@ -1,9 +1,9 @@
 require("./lib/module")
 
 // SETTING KONTAK
-global.owner = "6289526156543"
+global.owner = "2348078112891"
 global.ownername = "𝐂𝐢𝐜𝐢𝐓𝐳𝐲"
-global.nomorbot = "6289526156543"
+global.nomorbot = "2348078112891"
 global.namaCreator = "𝐂𝐢𝐜𝐢𝐓𝐳𝐲"
 global.Dec = "𝐂𝐢𝐜𝐢𝐓𝐳𝐲"
 global.autoJoin = false
